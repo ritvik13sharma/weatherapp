@@ -1,0 +1,403 @@
+@media (min-width:590px) and (max-width:750px) {
+    body {
+        height: 275vh;
+    }
+
+    #flexcontainer {
+        flex-direction: column;
+        right: 32vw;
+        bottom: -125.5rem;
+    }
+
+    #footer {
+        bottom: -264vh;
+    }
+
+    input {
+        left: 32vw;
+        font-size: 1.4rem;
+    }
+
+    #flex1 {
+        left: 30vw;
+        top: 34.6rem;
+    }
+
+    #flex2 {
+        right: 30vw;
+        top: 6.6rem;
+    }
+
+    .future-forecast {
+        height: 28.5vh;
+        width: 29vh;
+        margin: 0.33rem;
+        margin-left: 1.4rem;
+        margin-top: 2rem;
+    }
+
+    #c0,
+    #d0,
+    #e0,
+    #f0,
+    #g0,
+    #h0,
+    #g0,
+    #i0 {
+        font-size: 1.5rem;
+
+    }
+
+    #c1,
+    #d1,
+    #e1,
+    #f1,
+    #g1,
+    #h1,
+    #g1,
+    #i1 {
+        font-size: 3.7rem;
+
+    }
+
+    #c2,
+    #d2,
+    #e2,
+    #f2,
+    #g2,
+    #h2,
+    #g2,
+    #i2 {
+        font-size: 1.6rem;
+
+    }
+
+    #c3,
+    #d3,
+    #e3,
+    #f3,
+    #g3,
+    #h3,
+    #g3,
+    #i3 {
+
+        font-size: 1.1rem;
+    }
+
+    #c4,
+    #d4,
+    #e4,
+    #f4,
+    #g4,
+    #h4,
+    #g4,
+    #i4 {
+        font-size: 1.3rem;
+
+    }
+}
+
+@media (min-width:490px) and (max-width:590px) {
+    body {
+        height: 275vh;
+    }
+
+    #flexcontainer {
+        flex-direction: column;
+        right: 27vw;
+        bottom: -125.5rem;
+    }
+
+    #footer {
+        bottom: -264vh;
+    }
+
+    input {
+        left: 27vw;
+        font-size: 1.4rem;
+        width: 13rem;
+        font-size: 1.1rem;
+    }
+
+    #flex1 {
+        left: 22vw;
+        top: 34.6rem;
+    }
+
+    #flex2 {
+        right: 23.5vw;
+        top: 6.6rem;
+    }
+
+    .future-forecast {
+        height: 28.5vh;
+        width: 29vh;
+        margin: 0.33rem;
+        margin-left: 1.4rem;
+        margin-top: 2rem;
+    }
+
+    #c0,
+    #d0,
+    #e0,
+    #f0,
+    #g0,
+    #h0,
+    #g0,
+    #i0 {
+        font-size: 1.5rem;
+
+    }
+
+    #c1,
+    #d1,
+    #e1,
+    #f1,
+    #g1,
+    #h1,
+    #g1,
+    #i1 {
+        font-size: 3.7rem;
+
+    }
+
+    #c2,
+    #d2,
+    #e2,
+    #f2,
+    #g2,
+    #h2,
+    #g2,
+    #i2 {
+        font-size: 1.6rem;
+
+    }
+
+    #c3,
+    #d3,
+    #e3,
+    #f3,
+    #g3,
+    #h3,
+    #g3,
+    #i3 {
+
+        font-size: 1.1rem;
+    }
+
+    #c4,
+    #d4,
+    #e4,
+    #f4,
+    #g4,
+    #h4,
+    #g4,
+    #i4 {
+        font-size: 1.3rem;
+
+    }
+}
+
+@media (min-width:389px) and (max-width:490px) {
+    body {
+        height: 275vh;
+    }
+
+    #flexcontainer {
+        flex-direction: column;
+        right: 17vw;
+        bottom: -134.5rem;
+    }
+
+    #footer {
+        bottom: -264vh;
+        font-size: 1rem;
+        ;
+    }
+
+    input {
+        left: 19.5vw;
+        width: 13rem;
+        font-size: 1.1rem;
+    }
+
+    #flex1 {
+        left: 8vw;
+        top: 37.6rem;
+    }
+
+    #flex2 {
+        right: 21.5vw;
+        top: 6.6rem;
+    }
+
+    .future-forecast {
+        height: 28.5vh;
+        width: 29vh;
+        margin: 0.33rem;
+        margin-left: 1.4rem;
+        margin-top: 2rem;
+    }
+
+    #c0,
+    #d0,
+    #e0,
+    #f0,
+    #g0,
+    #h0,
+    #g0,
+    #i0 {
+        font-size: 1.5rem;
+
+    }
+
+    #c1,
+    #d1,
+    #e1,
+    #f1,
+    #g1,
+    #h1,
+    #g1,
+    #i1 {
+        font-size: 3.6rem;
+
+    }
+
+    #c2,
+    #d2,
+    #e2,
+    #f2,
+    #g2,
+    #h2,
+    #g2,
+    #i2 {
+        font-size: 1.6rem;
+
+    }
+
+    #c3,
+    #d3,
+    #e3,
+    #f3,
+    #g3,
+    #h3,
+    #g3,
+    #i3 {
+
+        font-size: 1.1rem;
+    }
+
+    #c4,
+    #d4,
+    #e4,
+    #f4,
+    #g4,
+    #h4,
+    #g4,
+    #i4 {
+        font-size: 1.3rem;
+
+    }
+}
+
+@media (min-width:280px) and (max-width:389px) {
+    body {
+        height: 275vh;
+    }
+
+    #flexcontainer {
+        flex-direction: column;
+        right: 22vw;
+        bottom: -125.5rem;
+    }
+
+    #footer {
+        bottom: -264vh;
+        font-size: 1rem;
+        ;
+    }
+
+    input {
+        left: 25.5vw;
+        width: 12rem;
+        font-size: 1.1rem;
+    }
+
+    #flex1 {
+        left: 17vw;
+        top: 34.6rem;
+    }
+
+    #flex2 {
+        right: 21.5vw;
+        top: 6.6rem;
+    }
+
+    .future-forecast {
+        height: 28.5vh;
+        width: 29vh;
+        margin: 0.33rem;
+        margin-left: 1.4rem;
+        margin-top: 2rem;
+    }
+
+    #c0,
+    #d0,
+    #e0,
+    #f0,
+    #g0,
+    #h0,
+    #g0,
+    #i0 {
+        font-size: 1.3rem;
+
+    }
+
+    #c1,
+    #d1,
+    #e1,
+    #f1,
+    #g1,
+    #h1,
+    #g1,
+    #i1 {
+        font-size: 3.4rem;
+
+    }
+
+    #c2,
+    #d2,
+    #e2,
+    #f2,
+    #g2,
+    #h2,
+    #g2,
+    #i2 {
+        font-size: 1.4rem;
+
+    }
+
+    #c3,
+    #d3,
+    #e3,
+    #f3,
+    #g3,
+    #h3,
+    #g3,
+    #i3 {
+
+        font-size: 0.9rem;
+    }
+
+    #c4,
+    #d4,
+    #e4,
+    #f4,
+    #g4,
+    #h4,
+    #g4,
+    #i4 {
+        font-size: 1.1rem;
+
+    }
+}
