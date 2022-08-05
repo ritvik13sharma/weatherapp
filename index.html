@@ -122,6 +122,7 @@ search.addEventListener("keypress", (event) => {
     if (event.key === 'Enter') {
         console.log(search.value);
         ladlong(search.value);
+        timemaker();
     }
 });
 
@@ -199,11 +200,9 @@ function reports(showreport) {
         else if (typeofw == "Rain") {
             document.getElementById(`${str}1`).innerHTML = `&#x1F327;`;
             document.getElementById(`${str}1`).style.color = "skyblue";
-            document.getElementsByClassName(`items`).style.color=`white`;
         }
 
     }
-    timemaker();
 
 
 
